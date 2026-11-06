@@ -6,32 +6,39 @@
 
 | Total Problems | Topics |
 |---|---|
-| 57 | 18 |
+| 68 | 19 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [binary search](#binary-search) (1)
 - [bitmasks](#bitmasks) (2)
-- [brute force](#brute-force) (8)
+- [brute force](#brute-force) (10)
 - [combinatorics](#combinatorics) (1)
-- [constructive algorithms](#constructive-algorithms) (13)
+- [constructive algorithms](#constructive-algorithms) (17)
 - [data structures](#data-structures) (1)
 - [dfs and similar](#dfs-and-similar) (2)
 - [dp](#dp) (2)
 - [dsu](#dsu) (1)
-- [games](#games) (3)
-- [geometry](#geometry) (2)
-- [greedy](#greedy) (25)
-- [implementation](#implementation) (11)
-- [math](#math) (22)
-- [number theory](#number-theory) (4)
+- [games](#games) (5)
+- [geometry](#geometry) (3)
+- [greedy](#greedy) (30)
+- [implementation](#implementation) (12)
+- [math](#math) (28)
+- [number theory](#number-theory) (5)
 - [sortings](#sortings) (8)
 - [strings](#strings) (9)
 - [two pointers](#two-pointers) (2)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2263C1 | [Floor of MEX (Easy Version)](https://codeforces.com/contest/2263/problem/C1) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/2263/C1%20-%20Floor%20of%20MEX%20(Easy%20Version)/solution.cpp) |
 
 ### binary search
 
@@ -52,12 +59,14 @@
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [GNU C11](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/4/A%20-%20Watermelon/solution.c) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/231/A%20-%20Team/solution.cpp) |
+| 1853A | [Desorting](https://codeforces.com/contest/1853/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/1853/A%20-%20Desorting/solution.cpp) |
 | 1881A | [Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/1881/A%20-%20Don't%20Try%20to%20Count/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 | 1904A | [Forked!](https://codeforces.com/contest/1904/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/1904/A%20-%20Forked!/solution.cpp) |
 | 2044A | [Easy Problem](https://codeforces.com/contest/2044/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/2044/A%20-%20Easy%20Problem/solution.cpp) |
 | 2123C | [Prefix Min and Suffix Max](https://codeforces.com/contest/2123/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/2123/C%20-%20Prefix%20Min%20and%20Suffix%20Max/solution.cpp) |
 | 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.cpp) |
+| 2272A | [Maximize One MEX](https://codeforces.com/contest/2272/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/2272/A%20-%20Maximize%20One%20MEX/solution.cpp) |
 
 ### combinatorics
 
@@ -69,6 +78,8 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1859A | [United We Stand](https://codeforces.com/contest/1859/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/1859/A%20-%20United%20We%20Stand/solution.cpp) |
+| 1862B | [Sequence Game](https://codeforces.com/contest/1862/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/1862/B%20-%20Sequence%20Game/solution.cpp) |
 | 1890A | [Doremy's Paint 3](https://codeforces.com/contest/1890/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/1890/A%20-%20Doremy's%20Paint%203/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 | 2056A | [Shape Perimeter](https://codeforces.com/contest/2056/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/2056/A%20-%20Shape%20Perimeter/solution.cpp) |
@@ -82,6 +93,8 @@
 | 2247A | [Zero Sum](https://codeforces.com/contest/2247/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/2247/A%20-%20Zero%20Sum/solution.cpp) |
 | 2247B | [Yet Another Constructive](https://codeforces.com/contest/2247/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/2247/B%20-%20Yet%20Another%20Constructive/solution.cpp) |
 | 2263B | [Min Matrices](https://codeforces.com/contest/2263/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/2263/B%20-%20Min%20Matrices/solution.cpp) |
+| 2272A | [Maximize One MEX](https://codeforces.com/contest/2272/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/2272/A%20-%20Maximize%20One%20MEX/solution.cpp) |
+| 2272B | [Frogs Jump](https://codeforces.com/contest/2272/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/2272/B%20-%20Frogs%20Jump/solution.cpp) |
 
 ### data structures
 
@@ -113,8 +126,10 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1858A | [Buttons](https://codeforces.com/contest/1858/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/1858/A%20-%20Buttons/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 | 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.cpp) |
+| 2261A | [Hey, It's Me, Souvlakity](https://codeforces.com/contest/2261/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/2261/A%20-%20Hey%2C%20It's%20Me%2C%20Souvlakity/solution.cpp) |
 | 2263A | [Min Max Game](https://codeforces.com/contest/2263/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/2263/A%20-%20Min%20Max%20Game/solution.cpp) |
 
 ### geometry
@@ -123,12 +138,16 @@
 |---|---------|------------|----------|
 | 2074A | [Draw a Square](https://codeforces.com/contest/2074/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/2074/A%20-%20Draw%20a%20Square/solution.cpp) |
 | 2074B | [The Third Side](https://codeforces.com/contest/2074/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/2074/B%20-%20The%20Third%20Side/solution.cpp) |
+| 2275A | [In Search of Convenience](https://codeforces.com/contest/2275/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/2275/A%20-%20In%20Search%20of%20Convenience/solution.cpp) |
 
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/231/A%20-%20Team/solution.cpp) |
+| 1853A | [Desorting](https://codeforces.com/contest/1853/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/1853/A%20-%20Desorting/solution.cpp) |
+| 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.cpp) |
+| 1858A | [Buttons](https://codeforces.com/contest/1858/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/1858/A%20-%20Buttons/solution.cpp) |
 | 1878A | [How Much Does Daytona Cost?](https://codeforces.com/contest/1878/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/1878/A%20-%20How%20Much%20Does%20Daytona%20Cost%3F/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
@@ -153,6 +172,8 @@
 | 2254C1 | [Marenol (easy version)](https://codeforces.com/contest/2254/problem/C1) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/2254/C1%20-%20Marenol%20(easy%20version)/solution.cpp) |
 | 2254C2 | [Marenol (hard version)](https://codeforces.com/contest/2254/problem/C2) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/2254/C2%20-%20Marenol%20(hard%20version)/solution.cpp) |
 | 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.cpp) |
+| 2272A | [Maximize One MEX](https://codeforces.com/contest/2272/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/2272/A%20-%20Maximize%20One%20MEX/solution.cpp) |
+| 2272B | [Frogs Jump](https://codeforces.com/contest/2272/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/2272/B%20-%20Frogs%20Jump/solution.cpp) |
 
 ### implementation
 
@@ -169,12 +190,18 @@
 | 2145B | [Deck of Cards](https://codeforces.com/contest/2145/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/2145/B%20-%20Deck%20of%20Cards/solution.cpp) |
 | 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
 | 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/2254/B%20-%20Evanescent/solution.cpp) |
+| 2275A | [In Search of Convenience](https://codeforces.com/contest/2275/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/2275/A%20-%20In%20Search%20of%20Convenience/solution.cpp) |
 
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [GNU C11](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/4/A%20-%20Watermelon/solution.c) |
+| 1853A | [Desorting](https://codeforces.com/contest/1853/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/1853/A%20-%20Desorting/solution.cpp) |
+| 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.cpp) |
+| 1858A | [Buttons](https://codeforces.com/contest/1858/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/1858/A%20-%20Buttons/solution.cpp) |
+| 1859A | [United We Stand](https://codeforces.com/contest/1859/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/1859/A%20-%20United%20We%20Stand/solution.cpp) |
+| 1866A | [Ambitious Kid](https://codeforces.com/contest/1866/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/1866/A%20-%20Ambitious%20Kid/solution.cpp) |
 | 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/1873/C%20-%20Target%20Practice/solution.cpp) |
 | 1877A | [Goals of Victory](https://codeforces.com/contest/1877/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/1877/A%20-%20Goals%20of%20Victory/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
@@ -196,11 +223,13 @@
 | 2244B | [Nikita and Books](https://codeforces.com/contest/2244/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/2244/B%20-%20Nikita%20and%20Books/solution.cpp) |
 | 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.cpp) |
 | 2245C | [MEXOR](https://codeforces.com/contest/2245/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/2245/C%20-%20MEXOR/solution.cpp) |
+| 2261A | [Hey, It's Me, Souvlakity](https://codeforces.com/contest/2261/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/2261/A%20-%20Hey%2C%20It's%20Me%2C%20Souvlakity/solution.cpp) |
 
 ### number theory
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1859A | [United We Stand](https://codeforces.com/contest/1859/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/1859/A%20-%20United%20We%20Stand/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 | 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.cpp) |
