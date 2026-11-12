@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 73 | 19 |
+| 75 | 19 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (2)
+- [Uncategorized](#uncategorized) (3)
 - [binary search](#binary-search) (1)
 - [bitmasks](#bitmasks) (2)
 - [brute force](#brute-force) (11)
@@ -24,8 +24,8 @@
 - [dsu](#dsu) (1)
 - [games](#games) (5)
 - [geometry](#geometry) (3)
-- [greedy](#greedy) (32)
-- [implementation](#implementation) (12)
+- [greedy](#greedy) (33)
+- [implementation](#implementation) (13)
 - [math](#math) (30)
 - [number theory](#number-theory) (6)
 - [sortings](#sortings) (8)
@@ -40,6 +40,7 @@
 |---|---------|------------|----------|
 | 2263C1 | [Floor of MEX (Easy Version)](https://codeforces.com/contest/2263/problem/C1) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/2263/C1%20-%20Floor%20of%20MEX%20(Easy%20Version)/solution.cpp) |
 | 2284A1 | [15K4JR3B (Easy Version)](https://codeforces.com/contest/2284/problem/A1) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/2284/A1%20-%2015K4JR3B%20(Easy%20Version)/solution.cpp) |
+| 2290A | [Three Piles](https://codeforces.com/contest/2290/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/2290/A%20-%20Three%20Piles/solution.cpp) |
 
 ### binary search
 
@@ -155,6 +156,7 @@
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
+| 1932D | [Card Game](https://codeforces.com/contest/1932/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/1932/D%20-%20Card%20Game/solution.cpp) |
 | 2044C | [Hard Problem](https://codeforces.com/contest/2044/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/2044/C%20-%20Hard%20Problem/solution.cpp) |
 | 2051A | [Preparing for the Olympiad](https://codeforces.com/contest/2051/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/2051/A%20-%20Preparing%20for%20the%20Olympiad/solution.cpp) |
 | 2072A | [New World, New Me, New Array](https://codeforces.com/contest/2072/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/2072/A%20-%20New%20World%2C%20New%20Me%2C%20New%20Array/solution.cpp) |
@@ -186,6 +188,7 @@
 | 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/1873/C%20-%20Target%20Practice/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 | 1904A | [Forked!](https://codeforces.com/contest/1904/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/1904/A%20-%20Forked!/solution.cpp) |
+| 1932D | [Card Game](https://codeforces.com/contest/1932/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/1932/D%20-%20Card%20Game/solution.cpp) |
 | 2044B | [Normal Problem](https://codeforces.com/contest/2044/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/2044/B%20-%20Normal%20Problem/solution.cpp) |
 | 2072A | [New World, New Me, New Array](https://codeforces.com/contest/2072/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/2072/A%20-%20New%20World%2C%20New%20Me%2C%20New%20Array/solution.cpp) |
 | 2074A | [Draw a Square](https://codeforces.com/contest/2074/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/2074/A%20-%20Draw%20a%20Square/solution.cpp) |
