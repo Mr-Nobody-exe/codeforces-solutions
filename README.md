@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 78 | 19 |
+| 79 | 19 |
 
 ---
 
@@ -18,14 +18,14 @@
 - [brute force](#brute-force) (11)
 - [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (17)
-- [data structures](#data-structures) (1)
+- [data structures](#data-structures) (2)
 - [dfs and similar](#dfs-and-similar) (2)
 - [dp](#dp) (2)
 - [dsu](#dsu) (1)
 - [games](#games) (5)
 - [geometry](#geometry) (3)
 - [greedy](#greedy) (33)
-- [implementation](#implementation) (13)
+- [implementation](#implementation) (14)
 - [math](#math) (31)
 - [number theory](#number-theory) (6)
 - [sortings](#sortings) (8)
@@ -106,6 +106,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2123C | [Prefix Min and Suffix Max](https://codeforces.com/contest/2123/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/2123/C%20-%20Prefix%20Min%20and%20Suffix%20Max/solution.cpp) |
+| 2289B | [Problem from Chebarkul](https://codeforces.com/contest/2289/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/2289/B%20-%20Problem%20from%20Chebarkul/solution.cpp) |
 
 ### dfs and similar
 
@@ -200,6 +201,7 @@
 | 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
 | 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/2254/B%20-%20Evanescent/solution.cpp) |
 | 2275A | [In Search of Convenience](https://codeforces.com/contest/2275/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/2275/A%20-%20In%20Search%20of%20Convenience/solution.cpp) |
+| 2289B | [Problem from Chebarkul](https://codeforces.com/contest/2289/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/2289/B%20-%20Problem%20from%20Chebarkul/solution.cpp) |
 
 ### math
 
