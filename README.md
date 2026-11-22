@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 77 | 19 |
+| 78 | 19 |
 
 ---
 
@@ -26,7 +26,7 @@
 - [geometry](#geometry) (3)
 - [greedy](#greedy) (33)
 - [implementation](#implementation) (13)
-- [math](#math) (30)
+- [math](#math) (31)
 - [number theory](#number-theory) (6)
 - [sortings](#sortings) (8)
 - [strings](#strings) (10)
@@ -235,6 +235,7 @@
 | 2245C | [MEXOR](https://codeforces.com/contest/2245/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/2245/C%20-%20MEXOR/solution.cpp) |
 | 2261A | [Hey, It's Me, Souvlakity](https://codeforces.com/contest/2261/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/2261/A%20-%20Hey%2C%20It's%20Me%2C%20Souvlakity/solution.cpp) |
 | 2284A2 | [15K4JR3B (Hard Version)](https://codeforces.com/contest/2284/problem/A2) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/2284/A2%20-%2015K4JR3B%20(Hard%20Version)/solution.cpp) |
+| 2289A | [Problem from Dolgoderevenskoye](https://codeforces.com/contest/2289/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Mr-Nobody-exe/codeforces-solutions/blob/HEAD/2289/A%20-%20Problem%20from%20Dolgoderevenskoye/solution.cpp) |
 
 ### number theory
 
